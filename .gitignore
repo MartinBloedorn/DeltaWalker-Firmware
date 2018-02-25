@@ -1,0 +1,6 @@
+#Igonre AtmelStudio's files
+*.atsln
+*.componentinfo.xml
+*.cppproj
+
+notes.txt
